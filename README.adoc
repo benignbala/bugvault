@@ -1,0 +1,7 @@
+= Bug Vault
+
+Bug Vault aims to be a simple, useable bug tracking system that
+doesn't overwhelm the user with a huge set of fields. This is
+implemented in Python 3.x, using Flask and  SQLAlchemy.
+
+
